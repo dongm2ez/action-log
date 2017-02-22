@@ -1,0 +1,23 @@
+{
+  "name": "dongm2ez/action-log",
+  "description": "A PHP package of ActionLog",
+  "keywords": ["ActionLog"],
+
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dongm2ez",
+      "email": "dongm2ez@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "dongm2ez\\ActionLog\\": "src/"
+    }
+  }
+
+}
