@@ -191,6 +191,10 @@ class clientService
             return '7';
         } elseif ($match == '6.2') {
             return '8';
+        } elseif ($match == '6.3'){
+          return '8.1';
+        } elseif ($match == '10.0'){
+          return '10';
         } elseif ($match == '5.1') {
             return 'XP';
         }
