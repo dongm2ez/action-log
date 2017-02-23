@@ -5,7 +5,7 @@
 
 $mapping = array(
     'dongm2ez\ActionLog\Repositories\ActionLogRepository' => __DIR__ . '/Repositories/ActionLogRepository.php',
-    'dongm2ez\ActionLog\Services\clientService' => __DIR__ . '/Services/clientService.php',
+    'dongm2ez\ActionLog\Services\clientService' => __DIR__ . '/Services/ClientService.php',
     'dongm2ez\ActionLog\Traits\ModelAfterTrait' => __DIR__ . '/ThinkPHP/Traits/ModelAfterTrait.class.php',
 );
 
